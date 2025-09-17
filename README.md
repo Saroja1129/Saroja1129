@@ -2,6 +2,10 @@
 
 <!--
 **Saroja1129/Saroja1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="prefers-color-scheme: light)" srcset="https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-wbnJMea2D-0"
+<picture>
+
 
 Here are some ideas to get you started:
 
